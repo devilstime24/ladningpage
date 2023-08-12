@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(69, 9, 133);
+}
+#aaa{
+    font-size: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#bbb{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: 20px;
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+}
+#image{
+    position: absolute;
+   padding-left: 1050px;
+   z-index: -1;
+}
+#sign{
+    height: 30px;
+    width: 70px;
+    padding-left: 80px;
+}
+#Hero{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    padding-right: 250px;
+    
+}
+#hrr{
+    font-family: Arial, Helvetica, sans-serif;
+   
+    padding-left: 1070px;
+}
